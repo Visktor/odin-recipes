@@ -1,0 +1,36 @@
+body{
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+main{
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+section, section *{
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cuscuz-img{
+    aspect-ratio: initial;
+    max-width: 400px;
+}
+
+.tapioca-img{
+    aspect-ratio: initial;
+    max-width: 400px;
+}
