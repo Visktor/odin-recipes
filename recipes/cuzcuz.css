@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    max-width: 100%;
+    height: auto;
+    overflow-x: hidden;
+}
+
+.img-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 60px;
+}
