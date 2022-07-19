@@ -25,12 +25,7 @@ section, section *{
     justify-content: center;
 }
 
-.cuscuz-img{
-    aspect-ratio: initial;
-    max-width: 400px;
-}
-
-.tapioca-img{
+.img{
     aspect-ratio: initial;
     max-width: 400px;
 }
